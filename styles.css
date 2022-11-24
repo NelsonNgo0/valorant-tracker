@@ -1,0 +1,12 @@
+.center {
+    text-align: center;
+    margin-top: 25%;
+}
+
+.center h1{
+    font-size: 3em;
+}
+
+.center p{
+    font-size: 30px;
+}
